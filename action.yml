@@ -1,4 +1,4 @@
-name: "NPM-Version"
+name: "package-json-version"
 description: "Change the version of your projects package.json file in a simple GitHub action."
 branding:
   icon: 'server'
